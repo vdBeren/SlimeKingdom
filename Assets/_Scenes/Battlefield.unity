@@ -154,7 +154,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.1921569, g: 0.47450984, b: 0.36935768, a: 0}
+  m_BackGroundColor: {r: 0.43407705, g: 0.25951555, b: 0.58823526, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -297,7 +297,7 @@ MonoBehaviour:
   tileObject: {fileID: 1237284858550142, guid: 7051e3dbcb28708438a481138362626e, type: 2}
   gridParent: {fileID: 1646383469}
   cellSize: 1
-  gridSize: 9
+  gridSize: 5
 --- !u!4 &435659113
 Transform:
   m_ObjectHideFlags: 0
